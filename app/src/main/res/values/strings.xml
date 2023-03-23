@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="student_list">Student List</string>
+    <string name="student_courses">Student Courses</string>
+    <string name="_120207020">120207020</string>
+    <string-array name="Select_Course">
+        <item>Select Course</item>
+    </string-array>
+    <string-array name="Select_spiaily">
+        <item>IT</item>
+    </string-array>
+    <string-array name="Select_faculty">
+        <item>Select Faculty</item>
+    </string-array>
+    <string-array name="Select_Course2">
+        <item>Select Course</item>
+    </string-array>
+</resources>
